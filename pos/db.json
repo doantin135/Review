@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "name": "efewfwe",
+      "price": "5600",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT84sIw0DFH-xpNcm4RTHWQ4iof5bHqu0V_bw&s",
+      "id": "65c7"
+    },
+    {
+      "id": "d049",
+      "name": "thth",
+      "price": "5600",
+      "image": "blob:http://localhost:3000/c0b3bc82-339c-4233-9f3d-eebf866a5022",
+      "file": {}
+    },
+    {
+      "id": "1e91",
+      "name": "de",
+      "price": "5900",
+      "image": "https://cdn-media.sforum.vn/storage/app/media/wp-content/uploads/2021/07/lol-t1-1.jpg"
+    }
+  ]
+}
